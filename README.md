@@ -1,2 +1,7 @@
-# db-idk
-A Cloud DB For My Botf
+# DB FOR ALL (GXTW PAKE AJA)
+ID: SILAHKAN DIPAKAI KALAU MAU NAMBAHIN TINGGAL PULL REQUEST AJA NTAR TAK ACC
+
+EN: PLEASE USE IT IF YOU WANT TO ADD A PULL REQUEST JUST I WILL ACC
+
+# Thanks To
+* [`ClickNetCafe`](https://github.com/clicknetcafe) (Males Bikin ReadMe Gw :v)
